@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Skeptical Scientist",
+        "openness": 0.6,
+        "conscientiousness": 0.9,
+        "extraversion": 0.3,
+        "agreeableness": 0.2,
+        "neuroticism": 0.4
+    },
+    {
+        "name": "Passionate Advocate",
+        "openness": 0.8,
+        "conscientiousness": 0.5,
+        "extraversion": 0.9,
+        "agreeableness": 0.6,
+        "neuroticism": 0.7
+    },
+    {
+        "name": "Calm Mediator",
+        "openness": 0.5,
+        "conscientiousness": 0.7,
+        "extraversion": 0.4,
+        "agreeableness": 0.9,
+        "neuroticism": 0.2
+    }
+]
